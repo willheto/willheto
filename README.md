@@ -6,4 +6,4 @@ I'm a passionate developer, always looking to build and learn something new. Asi
 - **Java**・Gradle
 - **DB**・MariaDB, Postgres
 - **PHP**・Laravel/Symfony
-- **Tools**・Docker, Kubernetes, AWS, Git, ProtoBuf and much more
+- **Tools**・Docker, Kubernetes, AWS, Git, ProtoBuf, iDrac just to name a few
